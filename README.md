@@ -1,7 +1,5 @@
-## Rename Bot - Clone of  [AnyDLBot](https://telegram.dog/AnyDLBot)
+## Rename Bot
 ---
-
-An Open Source Rename Telegram RoBot
 
 **My Feature**:
 
@@ -11,15 +9,11 @@ An Open Source Rename Telegram RoBot
 
 #### The Easy Way
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/yYHrSnuYXpA
-
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/erichdanikeninfo/TG-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/jarvis210904/renamebot)
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
-
-#### The Hard Way
+#### The Hard Way through termux
 
 ```sh
 virtualenv -p python3 VENV
@@ -29,11 +23,6 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-## Our Telegram Channel and Group
-
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
 
 ## Credits, and Thanks to
 
